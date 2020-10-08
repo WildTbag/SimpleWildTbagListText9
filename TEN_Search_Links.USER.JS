@@ -4,7 +4,7 @@
 // @version             1.4
 // @description         Change color of visited links on search sites
 // @author              TEN
-// @icon                https://github.com/WildTbag/SimpleWildTbagListText9/blob/master/Konsole.ico
+// @icon                https://github.com/WildTbag/SimpleWildTbagListText9/blob/master/Konsole.png
 // @grant               GM_addStyle
 // @grant               GM_getValue
 // @grant               GM_setValue
