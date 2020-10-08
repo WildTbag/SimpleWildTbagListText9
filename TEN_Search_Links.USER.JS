@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                TEN Search Links
-// @namespace           C:\X1O\USER.JS\TEN_Search_Links.user.js
+// @namespace           https://github.com/WildTbag/SimpleWildTbagListText9/blob/master/TEN_Search_Links.USER.JS
 // @version             1.4
 // @description         Change color of visited links on search sites
 // @author              TEN
