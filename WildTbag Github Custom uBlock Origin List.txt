@@ -10,4 +10,3 @@
 ! BLOCK COOKIES
 /getCookieConsent
 /getCookieNotice
-/test
