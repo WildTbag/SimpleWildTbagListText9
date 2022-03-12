@@ -1,12 +1,12 @@
-[WildTbag Github Custom uBlock Origin List]
-! Version: 2
+[uBlock Origin Custom List]
 ! Title: WildTbag Github Custom uBlock Origin List
-! Expires: 365 days
-! Licence: https://www.gnu.org/licenses/gpl-3.0.html
-! Homepage: https://raw.githubusercontent.com/WildTbag/SimpleWildTbagListText9/List9/WildTbag.TXT
+! Expires: 365 days (update frequency)
+! Version: 2
 ! Last modified: 12 Mar 2022 08:00 UTC
+! Homepage: https://github.com/WildTbag/SimpleWildTbagListText9/edit/List9/WildTbag%20Github%20Custom%20uBlock%20Origin%20List.txt
+! Licence: https://www.gnu.org/licenses/gpl-3.0.html
+! Description: Filters Cookie-notice Shit
 !
 ! BLOCK COOKIES
-!
 /getCookieConsent
 /getCookieNotice
