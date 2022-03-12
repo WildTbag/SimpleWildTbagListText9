@@ -10,4 +10,3 @@
 ! BLOCK COOKIES
 /getCookieConsent
 /getCookieNotice
-/was ist los
