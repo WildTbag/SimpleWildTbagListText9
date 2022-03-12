@@ -1,46 +1,12 @@
-[WildTbag Github 3rd party]
-! Version: 1
-! Title: WildTbag Github 3rd party
+[WildTbag Github Custom uBlock Origin List]
+! Version: 2
+! Title: WildTbag Github Custom uBlock Origin List
 ! Expires: 365 days
 ! Licence: https://www.gnu.org/licenses/gpl-3.0.html
-! Homepage: https://raw.githubusercontent.com/WildTbag/SimpleWildTbagListText9/List9/Github%203rd%20party.TXT
-! Last modified: 17 May 2020 00:08 UTC
+! Homepage: https://raw.githubusercontent.com/WildTbag/SimpleWildTbagListText9/List9/WildTbag.TXT
+! Last modified: 12 Mar 2022 08:00 UTC
 !
-! BLOCK 3rd party
-||1plusx.com^$script
-||33across.co.uk^$script
-||theadex.com^$script
-||adform.com^$script
-||advanced-store.com^$script
-||captify.co.uk^$script
-||dataxu.com^$script
-||deltaprojects.com^$script
-||emerse.com^$script
-||emetriq.com^$script
-||eyeota.com^$script
-||flashtalking.com^$script
-||hyotytieto^$script
-||gamned.com^$script
-||jadudamobile.com^$script
-||lotame.com^$script
-||mediamath.com^$script
-||mobile.de^$script
-||myntelligence.com^$script
-||nanointeractive.com^$script
-||home.neustar^$script
-||newsiq.net^$script
-||nielsen.com^$script
-||publicismedia.de^$script
-||quantcast.com^$script
-||rakutenmarketing.com^$script
-||salesforce.com^$script
-||scoota.com^$script
-||next14.com^$script
-||sizmek.com^$script
-||skimlinks.com^$script
-||sojern.com^$script
-||temelio.com^$script
-||unicredit.it^$script
-||ve.com^$script
-||vivalu.com^$script
-! 
+! BLOCK COOKIES
+!
+/getCookieConsent
+/getCookieNotice
